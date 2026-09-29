@@ -1,0 +1,2 @@
+reference,training_prevalence,n_internal,null_brier,selected_model_brier,brier_skill_score
+training-prevalence constant probability,0.40818124606670864,3973,0.2415829937632986,0.2061217551043243,0.14678698242194554

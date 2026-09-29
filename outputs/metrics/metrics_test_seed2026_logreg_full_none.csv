@@ -1,0 +1,2 @@
+split_scope,seed,model,featureset,calibration_method,n_train,n_test,roc_auc,pr_auc,brier,calibration_slope,calibration_intercept
+heldout_test,2026,logreg,full,none,15890,3973,0.7155339884751405,0.6434740054645649,0.21255805094373936,0.9741714857573256,-0.3686225929126435

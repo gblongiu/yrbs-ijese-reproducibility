@@ -1,0 +1,19 @@
+{
+  "best_cv_score_roc_auc": 0.650538032849739,
+  "best_params": {
+    "l2_regularization": 0.01,
+    "learning_rate": 0.01,
+    "max_depth": 5,
+    "max_iter": 600,
+    "max_leaf_nodes": 15,
+    "min_samples_leaf": 120
+  },
+  "dataset_version": "yrbs_2023_modeling_v1",
+  "featureset": "baseline",
+  "model": "hgb",
+  "n_iter": 12,
+  "run_id": "week05_models_v1_seed2026_hgb_baseline_none",
+  "scoring": "roc_auc",
+  "search_results_csv": "outputs/tuning/hgb_seed2026_baseline_search_results.csv",
+  "seed": 2026
+}

@@ -1,0 +1,10 @@
+subgroup,n,events,non_events,calibration_slope,calibration_intercept,adequacy_status
+Missing,71,23,48,,,Insufficient events or non-events
+American Indian/Alaskan Native,270,136,134,1.3752080926903327,0.2062617709058559,Eligible
+Asian,203,57,146,,,Insufficient events or non-events
+Black or African American,331,120,211,1.378529473204017,-0.1740983929859186,Eligible
+Native Hawaiian or Other Pacific Islander,17,4,13,,,Insufficient events or non-events
+White,1929,779,1150,0.930480607002143,0.0481812266116096,Eligible
+Hispanic/Latino,243,90,153,,,Insufficient events or non-events
+Multiple–Hispanic/Latino,545,252,293,0.8423499485503665,0.0451696041582649,Eligible
+Multiple–Non-Hispanic/Latino,364,161,203,0.9579125961077396,0.0198675594359834,Eligible

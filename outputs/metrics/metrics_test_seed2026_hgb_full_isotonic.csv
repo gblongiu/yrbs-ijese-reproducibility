@@ -1,0 +1,2 @@
+split_scope,seed,model,featureset,calibration_method,n_train,n_test,roc_auc,pr_auc,brier,calibration_slope,calibration_intercept
+heldout_test,2026,hgb,full,isotonic,15890,3973,0.7137381789421402,0.6187888451855103,0.2065464569597502,0.9802547725551846,-0.0006563702343973929

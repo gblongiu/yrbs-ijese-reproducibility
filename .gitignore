@@ -1,0 +1,12 @@
+data/raw/*
+data/processed/*
+*.dat
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+revision_r1/data/external/*
+revision_r1/outputs/
+*.log

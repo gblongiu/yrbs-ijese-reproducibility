@@ -1,0 +1,9 @@
+component,specification,analytic_role
+Development data,2023 National YRBS,Model development and internal evaluation
+Outcome,Persistent sadness or hopelessness,Binary target
+Baseline,"Age, sex, grade, race or ethnicity",Demographic comparator
+Added feature group,School-property and electronic bullying,Researcher-specified comparison
+2023 split,"80/20, seed 2026",Fixed respondent-level training and internal evaluation partitions
+Selection,Fixed training-side cross-validation,"Brier score, calibration slope, then ROC AUC"
+External validation,2021 National YRBS,Frozen-pipeline reverse-time transportability
+Claim boundary,"Predictive, non-causal, research-only",Limits interpretation
